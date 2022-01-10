@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1592752296 source:c:\users\lilst\onedrive\desktop\miniprojet\atomes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1594397194 source:c:\users\lilst\onedrive\desktop\mini projets\c\mohamed farhi miniprojet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
